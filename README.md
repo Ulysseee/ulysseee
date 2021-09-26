@@ -14,7 +14,7 @@ const ulysse = {
 }
 ```
 
-### Places to to find me 🌍
+### Places to find me 🌍
 
 - [Github](https://github.com/ulysseee)
 - [Portfolio](https://ulyssegravier.fr)
