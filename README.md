@@ -13,10 +13,3 @@ const ulysse = {
     }
 }
 ```
-
-### Places to find me 🌍
-
-- [Github](https://github.com/ulysseee)
-- [Portfolio](https://ulyssegravier.fr)
-- [LinkedIn](https://www.linkedin.com/in/ulysse-gravier/)
-
